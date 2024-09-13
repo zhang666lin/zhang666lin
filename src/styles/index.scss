@@ -1,0 +1,8 @@
+@import './scrollbar.scss';
+@import './quasar-variables.scss';
+@import 'tippy.js/dist/tippy.css';
+
+.select-popup-content-class {
+  max-height: 300px;
+  overflow-y: auto;
+}
